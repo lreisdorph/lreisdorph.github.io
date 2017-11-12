@@ -1,0 +1,17 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: 800px;
+       height: 600px;
+       background-image: url('thumbs_up.jpg') top left no repeat;
+       background-attachment: fixed;
+    }
+    /*img {
+      width: 400px;
+      height: 200px;
+    }*/
